@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-lq-master.flake = false;
+  inputs.src-lq-master.ref   = "refs/heads/master";
   inputs.src-lq-master.owner = "madprops";
-  inputs.src-lq-master.ref   = "master";
   inputs.src-lq-master.repo  = "lq";
   inputs.src-lq-master.type  = "github";
   
