@@ -11,6 +11,7 @@
   inputs.src-lq-2_2_1.ref   = "refs/tags/2.2.1";
   inputs.src-lq-2_2_1.owner = "madprops";
   inputs.src-lq-2_2_1.repo  = "lq";
+  inputs.src-lq-2_2_1.dir   = "";
   inputs.src-lq-2_2_1.type  = "github";
   
   inputs."nap".owner = "nim-nix-pkgs";
