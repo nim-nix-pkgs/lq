@@ -11,7 +11,6 @@
   inputs.src-lq-master.ref   = "refs/heads/master";
   inputs.src-lq-master.owner = "madprops";
   inputs.src-lq-master.repo  = "lq";
-  inputs.src-lq-master.dir   = "";
   inputs.src-lq-master.type  = "github";
   
   inputs."nap".owner = "nim-nix-pkgs";
